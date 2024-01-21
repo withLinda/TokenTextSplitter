@@ -1,3 +1,4 @@
+
 # Token Text Splitter
 
 The application allows you to open a text file, split the text into chunks based on a specified maximum number of tokens, and copy the text to the clipboard. This is a simple GUI application built with Python's `tkinter` library. 
@@ -33,4 +34,9 @@ To run the application, simply execute the script `Split-text-app.py`. The GUI w
 
 ## Note
 
-This application uses the `customtkinter` library for custom tkinter widgets. Make sure to install this library before running the application.
+This application uses the `customtkinter` library for custom tkinter widgets. Make sure to install this library before running the application. 
+
+
+<img src="https://github.com/withLinda/TokenTextSplitter/assets/82918531/15c19828-1595-459f-8b1e-e9551db2f040" width="400" height="1000"> 
+
+
