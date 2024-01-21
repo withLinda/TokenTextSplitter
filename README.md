@@ -21,7 +21,8 @@ To run the application, simply execute the script `Split-text-app.py`. The GUI w
 - Click the "Open File" button to open a text file.
 - Enter a number in the "Max Tokens" field and click "Save Max Tokens" to set the maximum number of tokens for each chunk.
 - The text from the file will be displayed in the GUI, split into chunks based on the maximum number of tokens.
-- Click the "Select and Copy Text" button to copy the text to the clipboard.
+- Click on the specific textbox.
+- Click the "Select and Copy Text" button to copy all the text in the specific textbox to the clipboard.
 
 ## Dependencies
 
